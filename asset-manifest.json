@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/francovaldez99/calculator-app/static/css/main.a5db93c8.css",
+    "main.js": "/francovaldez99/calculator-app/static/js/main.8a2b87df.js",
+    "index.html": "/francovaldez99/calculator-app/index.html",
+    "main.a5db93c8.css.map": "/francovaldez99/calculator-app/static/css/main.a5db93c8.css.map",
+    "main.8a2b87df.js.map": "/francovaldez99/calculator-app/static/js/main.8a2b87df.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a5db93c8.css",
+    "static/js/main.8a2b87df.js"
+  ]
+}
